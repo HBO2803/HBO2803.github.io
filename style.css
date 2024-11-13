@@ -11,6 +11,7 @@ p{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 body{
+    
     color:rgb(73, 109, 16);
     background-color: darkkhaki;
     background-image:url("informatyka.jpg");
@@ -30,4 +31,8 @@ img{
 }
 a{
     color:aqua
+}
+div{
+    margin:auto;
+    max-width: 600px;
 }
