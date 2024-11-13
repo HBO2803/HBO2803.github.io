@@ -33,6 +33,7 @@ a{
     color:aqua
 }
 div{
+    background-color: chocolate;
     margin:auto;
-    max-width: 600px;
+    max-width: 500px;
 }
